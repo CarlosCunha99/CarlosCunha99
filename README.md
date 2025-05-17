@@ -20,5 +20,4 @@
 
 ## 🌱 Learning & Laughing
 1. Cats Effect (because side-effects belong in stand-up shows, not code)  
-2. Akka Streams (streaming my coffee, one sip at a time)  
-3. Play Framework (making web apps sing “Olá!”)
+2. Akka Streams (streaming my coffee, one sip at a time)
