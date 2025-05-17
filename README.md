@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- 🚀 This README is powered by pastel de nata, bad puns, and Carlos’s endless coffee supply -->
 
-<!--
-**CarlosCunha99/CarlosCunha99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there! I’m Carlos
 
-Here are some ideas to get you started:
+- 🇵🇹 Proudly coding from Portugal (yes, the land of custard tarts and sunshine)  
+- 🤓 Junior Software Engineer on a mission to make Scala functional code as smooth as Port wine  
+- ☕️ Java Enjoyer (Spring, Hibernate, and all their cousins)  
+- 🎲 Board-game enthusiast (Catan conqueror, Ticket to Ride tycoon)  
+- 🎮 Single & multiplayer gamer—ask me about my latest RPG games
+- 🃏 Magic: The Gathering fan—my deck is as organized as my commits (well… almost)  
+- 😄 Always up for a chat, a laugh, or a code review that ends in bad jokes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I’m Building
+- **Scala Funhouse**: Pure-function playground where nothing mutates (except my snack stash)  
+- **Java Revival**: Bringing legacy Java code back to life—Frankencode, but make it classy  
+
+---
+
+## 🌱 Learning & Laughing
+1. Cats Effect (because side-effects belong in stand-up shows, not code)  
+2. Akka Streams (streaming my coffee, one sip at a time)  
+3. Play Framework (making web apps sing “Olá!”)
