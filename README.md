@@ -12,12 +12,6 @@
 
 ---
 
-## 🔭 What I’m Building
-- **Scala Funhouse**: Pure-function playground where nothing mutates (except my snack stash)  
-- **Java Revival**: Bringing legacy Java code back to life—Frankencode, but make it classy  
-
----
-
-## 🌱 Learning & Laughing
+## 🌱 Learning
 1. Cats Effect (because side-effects belong in stand-up shows, not code)  
 2. Akka Streams (streaming my coffee, one sip at a time)
