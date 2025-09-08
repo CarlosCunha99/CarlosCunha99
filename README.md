@@ -3,15 +3,7 @@
 # 👋 Hey there! I’m Carlos
 
 - 🇵🇹 Proudly coding from Portugal (yes, the land of custard tarts and sunshine)  
-- 🤓 Junior Software Engineer on a mission to make Scala functional code as smooth as Port wine  
 - ☕️ Java Enjoyer (Spring, Hibernate, and all their cousins)  
-- 🎲 Board-game enthusiast (Catan conqueror, Ticket to Ride tycoon)  
-- 🎮 Single & multiplayer gamer—ask me about my latest RPG games
+- 🎲 Board-game enthusiast
+- 🎮 Single & multiplayer games
 - 🃏 Magic: The Gathering fan—my deck is as organized as my commits (well… almost)  
-- 😄 Always up for a chat, a laugh, or a code review that ends in bad jokes
-
----
-
-## 🌱 Learning
-1. Cats Effect (because side-effects belong in stand-up shows, not code)  
-2. Akka Streams (streaming my coffee, one sip at a time)
